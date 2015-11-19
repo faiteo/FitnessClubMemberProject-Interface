@@ -1,0 +1,11 @@
+c:\users\faithnielsen\documents\visual studio 2013\Projects\FitnessClubMemberProject-Interface\FitnessClubMemberProject-Interface\bin\Debug\FitnessClubMemberProject-Interface.exe.config
+c:\users\faithnielsen\documents\visual studio 2013\Projects\FitnessClubMemberProject-Interface\FitnessClubMemberProject-Interface\bin\Debug\FitnessClubMemberDB.mdf
+c:\users\faithnielsen\documents\visual studio 2013\Projects\FitnessClubMemberProject-Interface\FitnessClubMemberProject-Interface\bin\Debug\FitnessClubMemberDB_log.ldf
+c:\users\faithnielsen\documents\visual studio 2013\Projects\FitnessClubMemberProject-Interface\FitnessClubMemberProject-Interface\bin\Debug\FitnessClubMemberProject-Interface.exe
+c:\users\faithnielsen\documents\visual studio 2013\Projects\FitnessClubMemberProject-Interface\FitnessClubMemberProject-Interface\bin\Debug\FitnessClubMemberProject-Interface.pdb
+c:\users\faithnielsen\documents\visual studio 2013\Projects\FitnessClubMemberProject-Interface\FitnessClubMemberProject-Interface\obj\Debug\FitnessClubMemberProject-Interface.csprojResolveAssemblyReference.cache
+c:\users\faithnielsen\documents\visual studio 2013\Projects\FitnessClubMemberProject-Interface\FitnessClubMemberProject-Interface\obj\Debug\FitnessClubMemberProject_Interface.Form1.resources
+c:\users\faithnielsen\documents\visual studio 2013\Projects\FitnessClubMemberProject-Interface\FitnessClubMemberProject-Interface\obj\Debug\FitnessClubMemberProject_Interface.Properties.Resources.resources
+c:\users\faithnielsen\documents\visual studio 2013\Projects\FitnessClubMemberProject-Interface\FitnessClubMemberProject-Interface\obj\Debug\FitnessClubMemberProject-Interface.csproj.GenerateResource.Cache
+c:\users\faithnielsen\documents\visual studio 2013\Projects\FitnessClubMemberProject-Interface\FitnessClubMemberProject-Interface\obj\Debug\FitnessClubMemberProject-Interface.exe
+c:\users\faithnielsen\documents\visual studio 2013\Projects\FitnessClubMemberProject-Interface\FitnessClubMemberProject-Interface\obj\Debug\FitnessClubMemberProject-Interface.pdb
