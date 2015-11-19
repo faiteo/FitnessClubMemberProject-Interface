@@ -9,3 +9,14 @@ c:\users\faithnielsen\documents\visual studio 2013\Projects\FitnessClubMemberPro
 c:\users\faithnielsen\documents\visual studio 2013\Projects\FitnessClubMemberProject-Interface\FitnessClubMemberProject-Interface\obj\Debug\FitnessClubMemberProject-Interface.csproj.GenerateResource.Cache
 c:\users\faithnielsen\documents\visual studio 2013\Projects\FitnessClubMemberProject-Interface\FitnessClubMemberProject-Interface\obj\Debug\FitnessClubMemberProject-Interface.exe
 c:\users\faithnielsen\documents\visual studio 2013\Projects\FitnessClubMemberProject-Interface\FitnessClubMemberProject-Interface\obj\Debug\FitnessClubMemberProject-Interface.pdb
+C:\Users\FaithNielsen\Desktop\GIT-REPO\FitnessClubMemberProject-Interface\FitnessClubMemberProject-Interface\bin\Debug\FitnessClubMemberProject-Interface.exe.config
+C:\Users\FaithNielsen\Desktop\GIT-REPO\FitnessClubMemberProject-Interface\FitnessClubMemberProject-Interface\obj\Debug\FitnessClubMemberProject-Interface.exe
+C:\Users\FaithNielsen\Desktop\GIT-REPO\FitnessClubMemberProject-Interface\FitnessClubMemberProject-Interface\obj\Debug\FitnessClubMemberProject-Interface.pdb
+C:\Users\FaithNielsen\Desktop\GIT-REPO\FitnessClubMemberProject-Interface\FitnessClubMemberProject-Interface\bin\Debug\FitnessClubMemberDB.mdf
+C:\Users\FaithNielsen\Desktop\GIT-REPO\FitnessClubMemberProject-Interface\FitnessClubMemberProject-Interface\bin\Debug\FitnessClubMemberDB_log.ldf
+C:\Users\FaithNielsen\Desktop\GIT-REPO\FitnessClubMemberProject-Interface\FitnessClubMemberProject-Interface\bin\Debug\FitnessClubMemberProject-Interface.exe
+C:\Users\FaithNielsen\Desktop\GIT-REPO\FitnessClubMemberProject-Interface\FitnessClubMemberProject-Interface\bin\Debug\FitnessClubMemberProject-Interface.pdb
+C:\Users\FaithNielsen\Desktop\GIT-REPO\FitnessClubMemberProject-Interface\FitnessClubMemberProject-Interface\obj\Debug\FitnessClubMemberProject-Interface.csprojResolveAssemblyReference.cache
+C:\Users\FaithNielsen\Desktop\GIT-REPO\FitnessClubMemberProject-Interface\FitnessClubMemberProject-Interface\obj\Debug\FitnessClubMemberProject_Interface.Form1.resources
+C:\Users\FaithNielsen\Desktop\GIT-REPO\FitnessClubMemberProject-Interface\FitnessClubMemberProject-Interface\obj\Debug\FitnessClubMemberProject_Interface.Properties.Resources.resources
+C:\Users\FaithNielsen\Desktop\GIT-REPO\FitnessClubMemberProject-Interface\FitnessClubMemberProject-Interface\obj\Debug\FitnessClubMemberProject-Interface.csproj.GenerateResource.Cache
